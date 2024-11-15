@@ -8,5 +8,5 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RWilliams5612/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RWilliams5612/Configuring-On-premises-Active-Directory)
-  - [Create additional users with powershell](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Create additional users with powershell](https://github.com/RWilliams5612/Create-additional-users)
 
