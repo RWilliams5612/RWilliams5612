@@ -1,4 +1,4 @@
-<h1>Hi, Roland, an IT Professional
+<h1>Hi, My name is Roland im an IT Professional
 
 <h2>Information technology projects:</h2>
 
